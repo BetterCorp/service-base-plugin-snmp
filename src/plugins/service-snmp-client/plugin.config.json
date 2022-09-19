@@ -1,6 +1,6 @@
 {
   "key": "service-snmp",
-  "name": "SNMP",
+  "name": "SNMP Client",
   "icon": "snmp.png",
   "description": "SNMP Client",
   "badges": [
